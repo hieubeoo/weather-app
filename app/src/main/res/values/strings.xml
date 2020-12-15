@@ -2,5 +2,21 @@
     <string name="app_name">Weather app</string>
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
-
+    <string name="gioi">11:00</string>
+    <string name="do_C">C</string>
+    <string name="thanh_pho">Thành phố</string>
+    <string name="do_am">0 %</string>
+    <string name="next7days"><![CDATA[7 ngày tiếp theo >]]></string>
+    <string name="country">Đất nước</string>
+    <string name="day_month">Đất nước</string>
+    <string name="today_title">Hôm nay</string>
+    <string name="temperature">20</string>
+    <string name="Do">o</string>
+    <string name="doC">C</string>
+    <string name="wind">0 km/h</string>
+    <string name="rain">0 %</string>
+    <string name="today_small">Hôm Nay</string>
+    <string name="Do_small">o</string>
+    <string name="nhietDo_small">20</string>
+    <string name="todo">TODO</string>
 </resources>
